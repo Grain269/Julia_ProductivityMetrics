@@ -1,6 +1,6 @@
-productivity_id,title,timeSpent,color,user
-p1,Programming Productivity Metric,2,Orange,GrantZeGod
-p2,Pixel Art Productivity Metric,4,Red,GrantZeGod
-p3,Pixel Art Productivity Metric,3,Red,Genie
-p4,Chess Productivity Metric,1,Green,GrantZeGod
-p5,Legacy Productivity Metric,1,Blue,GrantZeGod
+productivity_id,type,title,timeSpent,color,user
+p1,tech,Programming Productivity Metric,2,Orange,GrantZeGod
+p2,art,Pixel Art Productivity Metric,4,Red,GrantZeGod
+p3,tech,Pixel Art Productivity Metric,3,Red,Genie
+p4,game,Chess Productivity Metric,1,Green,GrantZeGod
+p5,leader,Legacy Productivity Metric,1,Blue,GrantZeGod
